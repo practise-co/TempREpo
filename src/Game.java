@@ -1,5 +1,6 @@
 
 public class Game {
+	
 	public Player player1, player2;
 	public Toss matchToss;
 
@@ -21,7 +22,7 @@ public class Game {
 	public Player getPlayer2() {
 		return player2;
 	}
-
+	//
 	public void setPlayer2(Player player2) {
 		this.player2 = player2;
 	}
